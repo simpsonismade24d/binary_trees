@@ -1,6 +1,7 @@
 0x1D. C - Binary trees
 
 Requirements
+
 General
 
 Allowed editors: vi, vim, emacs
@@ -17,4 +18,6 @@ Don’t forget to push your header file
 All your header files should be include guarded
 
 GitHub
-There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
+
+There should be one project repository per group. If you clone/fork/whatever a project
+repository with the same name before the second deadline, you risk a 0% score.
